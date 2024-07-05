@@ -16,6 +16,9 @@
 
 This analysis aims to provide insights into sales performance, customer behavior, and product popularity to drive growth for the company. The dataset contains detailed information on sales transactions from January 2019 to March 2019 across three branches and various product categories such as Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel.
 
+### Dashboard
+![updated capstone dashboard](https://github.com/Sozhia1/Data-Analytics-Projects/assets/174826228/1c3fd678-266a-4f89-b50a-53f2885c90fa)
+
 ### Data Source
 
 The data for this analysis is gotten from a Data Learning Community I joined in April 2024 called The Data Initiative (TDI). It contains detailed information about each sale made by the company.
