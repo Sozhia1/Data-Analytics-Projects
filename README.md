@@ -3,6 +3,7 @@
 ### Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dashboard](#dashboard)
 - [Data Source](#data-source)
 - [Data Tools](#data-tools)
 - [Data Cleaning](#data-cleaning)
